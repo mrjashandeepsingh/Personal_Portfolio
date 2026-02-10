@@ -42,7 +42,7 @@ const Hero = () => {
                 View Projects <ExternalLink size={16} />
               </a>
               <a
-                href="#"
+                href="https://drive.google.com/file/d/1OUQSAbEiqi3sQW0XE9znqjrpUdBvnVVu/view"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-border text-foreground font-medium hover:bg-muted transition-colors"
               >
                 Download Resume <Download size={16} />
