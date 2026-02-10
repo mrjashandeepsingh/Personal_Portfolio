@@ -7,7 +7,7 @@ const projects = [
     description: "A static website displaying the weekly class timetable for easy access.",
     tech: ["HTML", "CSS"],
     github: "https://github.com/mrjashandeepsingh",
-    live: "#",
+    live: "https://practice-projects-gamma.vercel.app",
   },
 ];
 
