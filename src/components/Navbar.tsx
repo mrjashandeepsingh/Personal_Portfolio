@@ -27,7 +27,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto flex items-center justify-between h-16">
         <a href="#" className="font-heading text-lg font-bold tracking-tight text-foreground">
-          Jashandeep<span className="text-primary">.</span>
+          JXNS<span className="text-primary">.</span>
         </a>
 
         {/* Desktop */}
