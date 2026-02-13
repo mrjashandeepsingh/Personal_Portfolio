@@ -26,7 +26,7 @@ const Navbar = () => {
       }`}
     >
       <div className="container mx-auto flex items-center justify-between h-16">
-        <a href="#" className="font-heading text-lg font-bold tracking-tight text-foreground">
+        <a href="mrjashandeepsingh.vercel.app" className="font-heading text-lg font-bold tracking-tight text-foreground">
           JXNS<span className="text-primary">.</span>
         </a>
 
