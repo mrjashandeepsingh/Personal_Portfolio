@@ -27,7 +27,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto flex items-center justify-between h-16">
         <a href="https://mrjashandeepsingh.vercel.app/#" className="font-heading text-lg font-bold tracking-tight text-foreground">
-          JXNS<span className="text-primary">.</span>
+          J<span className="text-primary">S</span>
         </a>
 
         {/* Desktop */}
