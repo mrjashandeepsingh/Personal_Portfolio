@@ -2,30 +2,25 @@ import { motion } from "framer-motion";
 
 const items = [
   {
-    year: "2025",
+    year: "21st July,2025",
     title: "Started B.Tech CSE",
     desc: "Began Computer Science Engineering at CGC Landran, Mohali.",
   },
   {
-    year: "2025",
+    year: "19th August,2025",
     title: "Founded Council of Coders",
     desc: "Created a coding community focused on mentoring and peer learning.",
   },
   {
-    year: "2025",
+    year: "1st November,2025",
     title: "Programming Fundamentals",
-    desc: "Built foundations in Java, C, C++, and Python.",
+    desc: "Started DSA in C++",
   },
   {
-    year: "2025",
+    year: "16th February,2026",
     title: "Web Development Basics",
-    desc: "Learned HTML, CSS and started building static projects.",
-  },
-  {
-    year: "2025",
-    title: "Git & GitHub Workflows",
-    desc: "Adopted version control for collaborative development.",
-  },
+    desc: "Started learning Web Development, MERN Stack.",
+  }
 ];
 
 const Journey = () => (
