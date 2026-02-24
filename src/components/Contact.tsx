@@ -6,7 +6,7 @@ const links = [
   { icon: Phone, label: "Phone", href: "tel:+919501441072", text: "+91 9501441072" },
   { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/mrjashandeepsingh", text: "mrjashandeepsingh" },
   { icon: Github, label: "GitHub", href: "https://www.github.com/mrjashandeepsingh", text: "mrjashandeepsingh" },
-  { icon: Twitter, label: "X / Twitter", href: "https://www.x.com/MrJashandeep_S", text: "@MrJashandeep_S" },
+  { icon: Twitter, label: "X / Twitter", href: "https://www.x.com/MrJashandeepS", text: "@MrJashandeepS" },
   { icon: ExternalLink, label: "LeetCode", href: "https://www.leetcode.com/u/mrjashandeepsingh", text: "mrjashandeepsingh" },
 ];
 
