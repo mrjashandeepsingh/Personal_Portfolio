@@ -3,7 +3,7 @@ import { ArrowDown, ExternalLink, Download } from "lucide-react";
 import profileImg from "@/assets/profile.jpg";
 
 const stats = [
-  { value: "9.2", label: "CGPA" },
+  { value: "9.58", label: "CGPA" },
   { value: "Founder", label: "Council of Coders" },
   { value: "2025–29", label: "B.Tech CSE" },
 ];
